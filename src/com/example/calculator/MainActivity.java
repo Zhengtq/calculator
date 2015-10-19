@@ -1,7 +1,6 @@
 package com.example.calculator;
 
-//heiheihei hahahaha
-//enenen
+//000000000000000000000000000000000000
 
 import android.support.v7.app.ActionBarActivity;
 import android.util.TypedValue;
@@ -182,7 +181,7 @@ public class MainActivity extends ActionBarActivity {
 			public void onClick(View v) {
 				// TODO Auto-generated method stub
 				calnum = "";
-				    mynum.setText("ÔÆÄÏ£¬ÄãÃÃ°¡£¬³òÄãÕ¦µØ");
+				    mynum.setText("äº‘å—ï¼Œä½ å¦¹å•Šï¼Œç…ä½ å’‹åœ°");
 				    Arrays.fill(nums,0);
 			}
 		});
@@ -201,7 +200,7 @@ public class MainActivity extends ActionBarActivity {
 		b19.setOnClickListener(new OnClickListener() {
 			public void onClick(View v) {
 				// TODO Auto-generated method stub
-				    mynum.setText("¿¼ÑéÄãµÄÊ±ºòµ½À²,cosÖµÄã×Ô¼ºËã°É");
+				    mynum.setText("è€ƒéªŒä½ çš„æ—¶å€™åˆ°å•¦,coså€¼ä½ è‡ªå·±ç®—å§");
 			}
 		});
 		
@@ -209,7 +208,7 @@ public class MainActivity extends ActionBarActivity {
 		b20.setOnClickListener(new OnClickListener() {
 			public void onClick(View v) {
 				// TODO Auto-generated method stub
-				    mynum.setText("Ê²Ã´£¿ÎÒ²»¶®Ê²Ã´½Ğsin£¬¹ş¹ş¹ş");
+				    mynum.setText("ä»€ä¹ˆï¼Ÿæˆ‘ä¸æ‡‚ä»€ä¹ˆå«sinï¼Œå“ˆå“ˆå“ˆ");
 			}
 		});
 		
